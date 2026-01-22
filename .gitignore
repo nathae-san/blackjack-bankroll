@@ -1,0 +1,12 @@
+# env
+.venv/
+
+# raw/processed data
+data/raw/*
+data/processed/*
+
+# model artifacts / runs
+outputs/*
+
+# keep reports (figures/tables) COMMITTABLES
+# (donc pas ignorés)
