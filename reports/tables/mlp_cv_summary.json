@@ -1,0 +1,23 @@
+{
+  "config": {
+    "hidden": [
+      256,
+      128
+    ],
+    "dropout": 0.2,
+    "lr": 0.001,
+    "weight_decay": 0.0001,
+    "batch_size": 4096,
+    "max_epochs": 25,
+    "patience": 4,
+    "device": "auto"
+  },
+  "summary": {
+    "val_mae_mean": 0.8576554631671058,
+    "val_mae_std": 0.001874272742309053,
+    "val_rmse_mean": 1.036641073088603,
+    "val_rmse_std": 0.0009451339236054674,
+    "val_r2_mean": 0.18078935461949563,
+    "val_r2_std": 0.0007416515919165008
+  }
+}
