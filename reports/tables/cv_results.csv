@@ -1,0 +1,4 @@
+model,best_params,cv_R2,cv_MAE,cv_RMSE
+HistGB,"{'model__learning_rate': 0.1, 'model__max_depth': 6, 'model__min_samples_leaf': 50}",0.18201953412431032,0.8557527103950197,1.0358623535785392
+RandomForest,"{'model__max_depth': 16, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 50, 'model__n_estimators': 120}",0.18005150479049883,0.8552680317451277,1.0371077303628602
+Ridge,{'model__alpha': 50.0},0.17698614814525565,0.8639264778326814,1.0390446079936564
