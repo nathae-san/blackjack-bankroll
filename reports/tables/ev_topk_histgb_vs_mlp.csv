@@ -1,0 +1,13 @@
+model,top_k,n_rows,ev
+pred_histgb,0.5,250000,0.354816
+pred_histgb,0.2,100000,0.78701
+pred_histgb,0.1,50000,1.06178
+pred_histgb,0.05,25000,1.39576
+pred_histgb,0.02,10000,1.5
+pred_histgb,0.01,5000,1.5
+pred_mlp,0.5,250000,0.35388
+pred_mlp,0.2,100000,0.78573
+pred_mlp,0.1,50000,1.05535
+pred_mlp,0.05,25000,1.39708
+pred_mlp,0.02,10000,1.49955
+pred_mlp,0.01,5000,1.5
