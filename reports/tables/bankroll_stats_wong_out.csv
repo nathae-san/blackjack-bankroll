@@ -1,0 +1,2 @@
+tag,score_col,strategy,rule,initial_bankroll,final_bankroll,total_pnl,n_rows_simulated,n_bets,avg_bet_size,avg_pnl_per_bet,hit_rate,max_drawdown,time_in_market
+wong_out,true_count,WONG_OUT,0 if tc<1 else 1,1000.0,2467.5,1467.5,500000,137439,1.0,0.01067746418411077,0.4249521605948821,-0.10537768106931922,0.274878

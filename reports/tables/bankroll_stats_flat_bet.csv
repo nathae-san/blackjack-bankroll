@@ -1,0 +1,2 @@
+tag,score_col,strategy,rule,initial_bankroll,final_bankroll,total_pnl,n_rows_simulated,n_bets,avg_bet_size,avg_pnl_per_bet,hit_rate,max_drawdown,time_in_market
+flat_bet,true_count,FLAT_BET,1 unit always,1000.0,-2202.5,-3202.5,500000,500000,1.0,-0.006405,0.421376,-3.1945788964181996,1.0

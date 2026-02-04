@@ -1,0 +1,4 @@
+tag,score_col,strategy,rule,initial_bankroll,final_bankroll,total_pnl,n_rows_simulated,n_bets,avg_bet_size,avg_pnl_per_bet,hit_rate,max_drawdown,time_in_market
+truecount_spread,true_count,TC_SPREAD_WONG_OUT,"0 if tc<1; 1 if [1,3); 2 if [3,5); 4 if tc>=5",1000.0,5353.0,4353.0,500000,137439,1.5053150852378145,0.031672232772357194,0.4249521605948821,-0.1250578971746179,0.274878
+wong_out,true_count,WONG_OUT,0 if tc<1 else 1,1000.0,2467.5,1467.5,500000,137439,1.0,0.01067746418411077,0.4249521605948821,-0.10537768106931922,0.274878
+flat_bet,true_count,FLAT_BET,1 unit always,1000.0,-2202.5,-3202.5,500000,500000,1.0,-0.006405,0.421376,-3.1945788964181996,1.0
